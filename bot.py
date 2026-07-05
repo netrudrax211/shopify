@@ -1,6 +1,7 @@
 import os
 import sys
 import asyncio
+import aiohttp  # <--- Add this right here
 import logging
 import warnings
 import random
